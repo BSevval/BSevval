@@ -6,3 +6,4 @@ output/*
 
 # Lisanslı müzik dosyaları repoya girmez
 music/
+__pycache__/
