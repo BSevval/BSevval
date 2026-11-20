@@ -1,0 +1,5 @@
+# Ham videolar ve render çıktıları repoya girmez
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
